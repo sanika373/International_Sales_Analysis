@@ -54,6 +54,6 @@ The purpose of this dashboard is to analyze the revenue performance of **VanArsd
 5. **Focus Area**:
    - Efforts should target reviving % Growth while sustaining or boosting contributions from the USA and exploring potential in low-performing markets like Canada.
 
-
+![IntSales](https://github.com/user-attachments/assets/aa15c6d8-6b8f-4969-9a74-20b80c4cdf05)
 ---
 
